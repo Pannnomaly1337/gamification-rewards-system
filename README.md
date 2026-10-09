@@ -11,7 +11,7 @@ It demonstrates a complete game loop: **play → earn score → claim rewards �
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-🔗 **Live Demo:** _add your Vercel URL here after deploying_
+🔗 **Live Demo:** https://gamification-rewards-system.vercel.app
 
 > Note: the demo is hosted on free tiers (Render + Neon), so the first request after a period of inactivity may take ~30–60s to wake up.
 
